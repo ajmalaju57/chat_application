@@ -1,7 +1,3 @@
-// WhatsApp Clone
-// Tutorial link: https://www.youtube.com/watch?v=yqwfP2vXWJQ
-// GitHub repository: https://github.com/muaazshoaib/chat_app
-
 import 'package:chat_app/common/utils/colors.dart';
 import 'package:chat_app/common/widgets/error_screen.dart';
 import 'package:chat_app/common/widgets/loader.dart';
