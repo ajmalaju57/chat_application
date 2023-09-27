@@ -34,7 +34,7 @@ class LandingScreen extends StatelessWidget {
               width: 300,
               color: tabColor,
             ),
-            SizedBox(height: size.height * 0.1),
+            // SizedBox(height: size.height * 0.1),
             const Padding(
               padding: EdgeInsets.all(16.0),
               child: Text(
