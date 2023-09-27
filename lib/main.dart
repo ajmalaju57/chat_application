@@ -50,7 +50,7 @@ class MyApp extends ConsumerWidget {
               return const MobileLayoutScreen();
             },
             error: (error, trace) {
-              // return ErrorScreen(errorMessage: error.toString());
+              return ErrorScreen(errorMessage: error.toString());
             },
             loading: () => const Loader(),
           ),
